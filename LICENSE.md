@@ -1,0 +1,1 @@
+HCT is created by NAREIG based on Ethereum ERC20 token, and HCT is written in the solidity language. You can freely view the source code of HCT and ask your questions. The copyright of HCT is protected by American law and is not allowed to be disseminated without permission.
